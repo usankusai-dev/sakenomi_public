@@ -1,0 +1,136 @@
+.v-main__wrap {
+  overflow-x: scroll;
+}
+
+.home {
+  text-align: center;
+}
+
+.dishDetail {
+  font-size: 20px;
+  white-space: break-spaces;
+  text-align: left;
+}
+
+.contents {
+  font-size: 32px;
+  line-height: 1;
+}
+
+.SiteTitle {
+  align-items: center;
+  white-space: nowrap;
+  position: absolute;
+  width: 55%;
+  top: 5%;
+  -webkit-transform: translate(50%, -50%);
+  transform: translate(35%, -50%);
+  font-style: italic;
+  font-size: 32px;
+}
+
+.PageTitle {
+  align-items: center;
+  white-space: nowrap;
+  position: absolute;
+  width: 55%;
+  top: 15%;
+  -webkit-transform: translate(50%, -50%);
+  transform: translate(35%, -50%);
+}
+
+.mainContent {
+  justify-content: center;
+  align-items: center;
+  white-space: nowrap;
+  position: absolute;
+  width: 50%;
+  top: 50%;
+  -webkit-transform: translate(50%, -50%);
+  transform: translate(50%, -50%);
+}
+
+.slot-contents {
+  margin: 0px auto;
+  display: inline-block;
+}
+
+.slot-frame {
+  width: 700px;
+  height: 32px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  position: relative;
+  display: inline-block;
+  border-bottom: solid 1px BLACK;
+}
+
+.slot-view {
+  width: 700px;
+  position: absolute;
+  transition-duration: 1s;
+  text-align: right;
+  right: 0%;
+}
+
+.slot-item {
+  font-weight: bold;
+  min-height: 32px;
+  max-height: 32px;
+  margin: 0px;
+  padding: 0px;
+  background-size: contain;
+  width: 100%;
+}
+
+body {
+  font-family: Helvetica, Arial, sans serif;
+}
+
+.tagline {
+  font-weight: normal;
+}
+
+.selectOpt {
+  width: 120px;
+}
+
+.selectedItem {
+  position: relative;
+  transition-duration: 1s;
+  display: inline-block;
+}
+
+.selectedFrame {
+  min-width: 100px;
+  border-bottom: solid 1px BLACK;
+  display: inline-block;
+  height: 32px;
+  overflow-y: hidden;
+}
+
+.selecterView {
+  padding-top: 100px;
+}
+
+.expLabel {
+  font-size: 20px;
+  padding-top: 20px;
+}
+
+.changeMode {
+  justify-content: center;
+  align-items: center;
+  white-space: nowrap;
+  position: absolute;
+  width: 50%;
+  top: 90%;
+  -webkit-transform: translate(50%, -90%);
+  transform: translate(35%, -90%);
+}
+
+a {
+  font-weight: bold;
+  text-decoration: none;
+  color: #33ccff;
+}

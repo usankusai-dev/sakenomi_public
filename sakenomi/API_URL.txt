@@ -1,0 +1,5 @@
+š”N’†s–
+https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:ApiSandbox#action=query&format=json&origin=*&prop=extracts&titles=%E5%B9%B4%E4%B8%AD%E8%A1%8C%E4%BA%8B&explaintext=1
+
+š‹½“y—¿—
+https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:ApiSandbox#action=query&format=json&origin=*&prop=revisions&titles=%E6%97%A5%E6%9C%AC%E3%81%AE%E9%83%B7%E5%9C%9F%E6%96%99%E7%90%86%E4%B8%80%E8%A6%A7&rvprop=content
