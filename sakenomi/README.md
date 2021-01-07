@@ -5,7 +5,7 @@
 詳細は下記をご参照ください。
 
 ```
-https://qiita.com/drafts/0e5e956e61943837f383
+https://qiita.com/usankusai/private/0e5e956e61943837f383
 ```
 
 ローカルでのデプロイ手順は以下のとおりです。
